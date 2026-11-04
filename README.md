@@ -1,10 +1,12 @@
 # WebSharper Charting
 
-A radar chart built with the high-level
-[WebSharper.Charting](https://github.com/dotnet-websharper/charting) API and
-rendered with Chart.js. It compares two people across seven activities.
+A radar chart built with [WebSharper](https://websharper.com) and the high-level
+[WebSharper.Charting](https://github.com/dotnet-websharper/charting) API, rendered
+with Chart.js. It compares two people across seven activities.
 
-![screenshot](docs/screenshot.png)
+[![screenshot](docs/screenshot.png)](https://websharper-samples.github.io/Charting)
+
+**[Try it live](https://websharper-samples.github.io/Charting)**
 
 ## How it works
 
